@@ -1,0 +1,7 @@
+{
+  "name": "3.6-snyk-scan",
+  "version": "1.0.0",
+  "description": "Hello World Lambda deployed with Terraform and scanned with Snyk",
+  "private": true,
+  "type": "module"
+}
